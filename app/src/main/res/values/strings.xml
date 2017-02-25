@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rtriangulo">Triangulo</string>
+    <string name="rcubo">Cubo</string>
+    <string name="ingreso">Altura</string>
+    <string name="ingresoaltura">Alto</string>
+    <string name="ingresalto">Ancho</string>
+    <string name="ingresolargo">Largo</string>
+    <string name="iradio">Radio</string>
+    <string name="cubo">Cubo</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
